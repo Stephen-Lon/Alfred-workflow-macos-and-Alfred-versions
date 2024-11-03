@@ -17,4 +17,4 @@ With your cursor correctly positioned where you wish the version numbers to be g
 
 The following text (amended as appropriate for the version numbers) will then appear at the cursor:
 
-`I am running macOS 15.1.0 and Alfred 5.5.1.`
+`I am running macOS 15.1.0 and Alfred 5.5.1 (build 2273)`
